@@ -3,7 +3,7 @@
 
 **Nama:** Muhammad Rizky Ramzy Ramadhan  
 **NIM:** 2225250199  
-**Kelas:** [Isi kelas lu]
+**Kelas:** 3E
 
 ## Tujuan
 Memodelkan data pendidikan menggunakan dictionary dan pasangan key-value.
